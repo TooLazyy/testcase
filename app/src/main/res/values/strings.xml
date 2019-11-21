@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">AndroidTestCase</string>
+
+    <!--region errors-->
+    <string name="error_not_internet">Проверьте интернет соединение</string>
+    <string name="error_unknown">Произошла ошибка</string>
+    <!--endregion-->
+
+    <!--region contacts list-->
+    <string name="contacts_contact_info">Пол: %s, Возраст: %d</string>
+    <string name="contacts_sex_male">М</string>
+    <string name="contacts_sex_female">Ж</string>
+    <!--endregion-->
+
+    <!--region contact details-->
+    <string name="contact_details_title">%s, %d</string>
+    <!--endregion-->
+
+</resources>
